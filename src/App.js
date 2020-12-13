@@ -10,7 +10,7 @@ function App() {
        <Search/>
       <Weather/>
        
-      <a href="https://github.com/simonaahoj/weather-react" target="_blank">Open-source code, </a>by Simona Obornikova
+      <a href="https://github.com/simonaahoj/weather-react" target="_blank" rel="noreferrer">Open-source code, </a>by Simona Obornikova
     </div>
   );
 }
