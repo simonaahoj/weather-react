@@ -13,7 +13,7 @@ alert (`The weather in ${response.data.name} is ${response.data.main.temp}℃`)
     return (<div>
      <h2> Good Weather</h2>
         <Loader
-         type="Hearts"
+         type="Puff"
          color="#00BFFF"
          height={100}
          width={100}
