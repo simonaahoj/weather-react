@@ -19,7 +19,6 @@ const defaults = {
   animate: true
 };
 
- 
   return (
     <div className="Search">
       <div className="card">
