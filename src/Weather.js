@@ -58,10 +58,10 @@ const defaults = {
 
               <div className="main-pic">
                 <strong className="temperature"> {weatherData.temperature}</strong>
-                <a href="#">
+                <a href="/">
                  <sup><strong className="celsium"> ℃ |</strong></sup> 
                 </a>
-                <a href="#">
+                <a href="/">
                  <sup><strong className="farenhaits"> ℉</strong></sup> 
                 </a>
               </div>
