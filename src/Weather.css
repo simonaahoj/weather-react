@@ -30,3 +30,7 @@ h1 {
 .main-pic {
   margin-bottom: 45px;
 }
+.celsium,
+.farenhaits {
+  font-size: 25px;
+}

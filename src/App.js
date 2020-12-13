@@ -7,9 +7,10 @@ import Search from "./Search"
 function App() {
   return (
     <div className="App">
-        <Weather city="Paris" />
-        <Search/>
-      
+       <Search/>
+      <Weather/>
+       
+      <a href="https://github.com/simonaahoj/weather-react" target="_blank">Opeon-source code,</a>by Simona Obornikova
     </div>
   );
 }
