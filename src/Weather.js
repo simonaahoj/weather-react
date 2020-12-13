@@ -1,6 +1,6 @@
 import React from 'react';
 import axios from 'axios';
- import Loader from 'react-loader-spinner'
+import Loader from 'react-loader-spinner'
 
 export default function Weather(props){
 
@@ -11,7 +11,7 @@ alert (`The weather in ${response.data.name} is ${response.data.main.temp}℃`)
     
     axios.get(apiUrl).then(handleResponse);
     return (<div>
-     <h2> Good Weather</h2>
+     <h2> Weather App</h2>
         <Loader
          type="Puff"
          color="#00BFFF"
