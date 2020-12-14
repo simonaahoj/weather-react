@@ -48,12 +48,12 @@ const defaults = {
 
             <div className="col-sm-4">
                 
-          <ReactAnimatedWeather
-    icon={defaults.icon}
-    color={defaults.color}
-    size={defaults.size}
-    animate={defaults.animate}
-  />
+               <ReactAnimatedWeather
+                icon={defaults.icon}
+                color={defaults.color}
+                 size={defaults.size}
+                 animate={defaults.animate}
+                />
 
 
               <div className="main-pic">
